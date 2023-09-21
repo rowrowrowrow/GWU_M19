@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repo demonstrates the usage of blockchain wallets on a mock ethereum blockchain provided by Ganache. It provides a UX to pay fintech professional via the blockchain.
+This repo demonstrates the usage of blockchain wallets on a mock ethereum blockchain provided by Ganache. It provides a UX to pay fintech professionals via the blockchain.
 
 ---
 
