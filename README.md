@@ -27,6 +27,7 @@ Please install [Ganache](https://trufflesuite.com/ganache/) separately.
 ## Usage
 
 Run [Ganache](https://trufflesuite.com/ganache/)
+
 Run `streamlit run fintech_finder.py`.
 
 
